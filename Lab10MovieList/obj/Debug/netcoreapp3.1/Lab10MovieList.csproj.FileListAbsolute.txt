@@ -1,0 +1,13 @@
+C:\Users\Nate\Documents\CSharp_april2020\Lab10MovieList\Lab10MovieList\bin\Debug\netcoreapp3.1\Lab10MovieList.exe
+C:\Users\Nate\Documents\CSharp_april2020\Lab10MovieList\Lab10MovieList\bin\Debug\netcoreapp3.1\Lab10MovieList.deps.json
+C:\Users\Nate\Documents\CSharp_april2020\Lab10MovieList\Lab10MovieList\bin\Debug\netcoreapp3.1\Lab10MovieList.runtimeconfig.json
+C:\Users\Nate\Documents\CSharp_april2020\Lab10MovieList\Lab10MovieList\bin\Debug\netcoreapp3.1\Lab10MovieList.runtimeconfig.dev.json
+C:\Users\Nate\Documents\CSharp_april2020\Lab10MovieList\Lab10MovieList\bin\Debug\netcoreapp3.1\Lab10MovieList.dll
+C:\Users\Nate\Documents\CSharp_april2020\Lab10MovieList\Lab10MovieList\bin\Debug\netcoreapp3.1\Lab10MovieList.pdb
+C:\Users\Nate\Documents\CSharp_april2020\Lab10MovieList\Lab10MovieList\obj\Debug\netcoreapp3.1\Lab10MovieList.csprojAssemblyReference.cache
+C:\Users\Nate\Documents\CSharp_april2020\Lab10MovieList\Lab10MovieList\obj\Debug\netcoreapp3.1\Lab10MovieList.csproj.CoreCompileInputs.cache
+C:\Users\Nate\Documents\CSharp_april2020\Lab10MovieList\Lab10MovieList\obj\Debug\netcoreapp3.1\Lab10MovieList.AssemblyInfoInputs.cache
+C:\Users\Nate\Documents\CSharp_april2020\Lab10MovieList\Lab10MovieList\obj\Debug\netcoreapp3.1\Lab10MovieList.AssemblyInfo.cs
+C:\Users\Nate\Documents\CSharp_april2020\Lab10MovieList\Lab10MovieList\obj\Debug\netcoreapp3.1\Lab10MovieList.dll
+C:\Users\Nate\Documents\CSharp_april2020\Lab10MovieList\Lab10MovieList\obj\Debug\netcoreapp3.1\Lab10MovieList.pdb
+C:\Users\Nate\Documents\CSharp_april2020\Lab10MovieList\Lab10MovieList\obj\Debug\netcoreapp3.1\Lab10MovieList.genruntimeconfig.cache
